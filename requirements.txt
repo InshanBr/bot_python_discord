@@ -1,0 +1,3 @@
+discord
+PyPDF2
+python-dotenv
